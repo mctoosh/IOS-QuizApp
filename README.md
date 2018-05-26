@@ -44,7 +44,7 @@ Next Question Button
 
 ![image](https://user-images.githubusercontent.com/15992710/40575684-5caaf8d8-60e1-11e8-9bb8-c927c2e9187c.png)
 
-previous
+previous Question Button
 
 ![image](https://user-images.githubusercontent.com/15992710/40575691-9e33da04-60e1-11e8-987d-52bce713de86.png)
 
